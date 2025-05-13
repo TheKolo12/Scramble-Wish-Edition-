@@ -1,6 +1,3 @@
-Absolutely! Here's a clear and professional **English README description** for your plugin on GitHub:
-
----
 
 ## 🌀 Scramble (Wish Edition)
 
