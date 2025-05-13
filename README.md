@@ -5,6 +5,8 @@
 
 When a player carries this item, they become **immune to being targeted by SCP-096**, even if they look directly at its face.
 
+[![downloads](https://img.shields.io/github/downloads/TheKolo12/Scramble-Wish-Edition-/total?style=for-the-badge&logo=icloud&color=%233A6D8C)](https://github.com/TheKolo12/Scramble-Wish-Edition-/releases/latest)
+
 ---
 
 ### 🔧 Features
